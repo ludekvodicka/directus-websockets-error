@@ -1,4 +1,4 @@
-
+Error screenshot:
 ![Code_2025-04-16_21-28-04](https://github.com/user-attachments/assets/1d7a3ecc-5909-4280-9734-da1a54745401)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
